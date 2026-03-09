@@ -160,5 +160,5 @@ Our inaugural cohort tackled environmental challenges spanning six continents:
 </p>
 
 <p align="center">
-  <em>Copyright © 2025 Yale University. All rights reserved.</em>
+  <em>Copyright © 2026 Yale University. All rights reserved.</em>
 </p>
