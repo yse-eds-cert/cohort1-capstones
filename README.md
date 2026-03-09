@@ -33,7 +33,7 @@ Yale's Environmental Data Science Certificate Program equips learners with the t
 
 ## 🎓 Inaugural Cohort Capstone Projects (2024–2025)
 
-We are proud to celebrate our **first cohort of 40 participants** who completed the Environmental Data Science Certificate Program! Each participant developed an independent capstone project applying data science methods to real-world environmental challenges across the globe.
+We are proud to celebrate our **first cohort of 50 participants** who completed the Environmental Data Science Certificate Program! Each participant developed an independent capstone project applying data science methods to real-world environmental challenges across the globe.
 
 Below are links to their public capstone repositories, showcasing work that spans wildlife conservation, climate resilience, urban sustainability, renewable energy, and much more.
 
@@ -80,12 +80,6 @@ Below are links to their public capstone repositories, showcasing work that span
 | syattr16 | [EDS-capstone](https://github.com/syattr16/EDS-capstone) |
 | Toxikell | [Deciduous_Beginnings](https://github.com/Toxikell/Deciduous_Beginnings) |
 | viviane-acct | [EDScapstone](https://github.com/viviane-acct/EDScapstone) |
-
-#### Additional Project
-
-| Participant | Project Link |
-|-------------|--------------|
-| (CoCalc) | [Cap_Stone Project](https://cocalc.com/projects/6aedba43-5531-4c74-98ed-c09b18a2ac6f/files/Cap_Stone/) |
 
 ---
 
@@ -136,10 +130,17 @@ Our inaugural cohort tackled environmental challenges spanning six continents:
 
 ## Lead Faculty
 
-- **Eli Fenichel** — Yale School of the Environment
+- **Eli Fenichel** — Yale School of the Environment; Knobloch Family Professor of Natural Resource Economics
 - **Jennifer Marlon** — Yale School of the Environment; Yale Program on Climate Change Communication
 - **Simon Queenborough** — Yale School of the Environment; Musser Director, Tropical Resources Institute
 
+## Online Mentors
+- **Mariam Gedenidze** — second-year Master’s student in Environmental Science at the Yale School of the Environment
+- **Eliana Stone** — second-year PhD student in Environmental Economics at the Yale School of the Environment.
+- **Chong An Ong** — first-year Master’s student in Environmental Management at the Yale School of the Environment
+
+## Program Manager
+- **Jo Riddle** — MS Environmental Policy and Planning from Tufts University, BA Communications from Worcester State University
 ---
 
 ## Contact
