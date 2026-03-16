@@ -33,7 +33,7 @@ Yale's Environmental Data Science Certificate Program equips learners with the t
 
 ## 🎓 Inaugural Cohort Capstone Projects (2024–2025)
 
-We are proud to celebrate our **first cohort of 50 participants** who completed the Environmental Data Science Certificate Program! Each participant developed an independent capstone project applying data science methods to real-world environmental challenges across the globe.
+We are proud to celebrate our participants who completed the Environmental Data Science Certificate Program! Each participant developed an independent capstone project applying data science methods to real-world environmental challenges across the globe.
 
 Below are links to their public capstone repositories, showcasing work that spans wildlife conservation, climate resilience, urban sustainability, renewable energy, and much more.
 
