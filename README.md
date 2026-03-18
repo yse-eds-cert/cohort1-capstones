@@ -41,6 +41,8 @@ Below are links to their public capstone repositories, showcasing work that span
 
 ### Capstone Project Gallery
 # 🌿 Biodiversity, Wildlife, and Conservation
+- **Ceciliah Mumbi** – Comparison of remote sensing technologies for above-ground biomass (AGB) estimation using ground-truth data.  
+  [Repo](https://github.com/Ceciliah-Mumbi/Capstone-AGB-Remote-Sensing.git)  
 - **Amie Whitney** – Trait-based predictors of amphibian conservation risk.  
   [Repo](https://github.com/panpipiens/amphibian-vulnerability-analysis)  
 - **Daisy Chu** – Biodiversity and climate resilience impacts of species re-introduction of wolves in Yellowstone National Park.  
@@ -50,7 +52,9 @@ Below are links to their public capstone repositories, showcasing work that span
 - **Milton Kimbini** – Cape fur seal entanglement along the Namibian coastline.  
   [Repo](https://github.com/Keynes263/Cape-Fur-Seal-Entanglements-2021-2025.git)  
 - **Juno Pilson** – How human activity affects the health of Neuse River Waterdog populations.  
-  [Repo](https://github.com/j-pilson/eds_capstone)  
+  [Repo](https://github.com/j-pilson/eds_capstone)
+- **Michele Perry** – Effects of artificial light at night (ALAN) on coastal wildlife and human populations in Southeast Florida, U.S.  
+  [Repo](https://github.com/Michele-75/coastal-light-pollution-analysis)  
 
 # 🌡️ Climate Change, Air Quality, and Environmental Monitoring
 - **Amy Schuler** – Analyzing meteorological trends and degree days for ecological monitoring at Cary Institute.  
@@ -83,8 +87,10 @@ Below are links to their public capstone repositories, showcasing work that span
   [Repo](https://cocalc.com/projects/6aedba43-5531-4c74-98ed-c09b18a2ac6f/files/Cap_Stone/)  
 - **Julia Mei Hanzl** – U.S. government clean energy policies and household incentivization.  
   [Repo](https://github.com/juliahanzl/New_York_sample)  
-- **Rasheena Mariel Chenelle Dow** – Framework for assessing and sharing corporate sustainability impact in the Caribbean.  
-  [Repo](https://github.com/rasheenadow/Barbados-Public-EV-Charger-Analysis)  
+- **Rasheena Dow** – Framework for assessing and sharing corporate sustainability impact in the Caribbean.  
+  [Repo](https://github.com/rasheenadow/Barbados-Public-EV-Charger-Analysis)
+- **Jared Friedman** – Carbon emissions in building construction: mapping of cement replacements in concrete.  
+  [Repo](https://github.com/jbf1212/scm-mapping)  
 
 # 🏙️ Urban Systems, Heat, and Infrastructure
 - **Israel Zemedkun Gebre** – Urban heat island issues and vehicle heat dissipation.  
