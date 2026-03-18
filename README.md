@@ -59,8 +59,8 @@ Below are links to their public capstone repositories, showcasing work that span
 | Jeremey Kwok-Choon | [Yale_Capstone_Biomass](https://github.com/JerbearKCodes/Yale_Capstone_Biomass) |
 | Juno Pilson | [eds_capstone](https://github.com/j-pilson/eds_capstone) |
 | Julia Hanzl | [New_York_sample](https://github.com/juliahanzl/New_York_sample) |
-| Keynes263 | [Cape-Fur-Seal-Entanglements-2021-2025](https://github.com/Keynes263/Cape-Fur-Seal-Entanglements-2021-2025) |
-| khillrdn | [agrivoltaics_in_ri](https://github.com/khillrdn/agrivoltaics_in_ri) |
+| Milton Kimbini | [Cape-Fur-Seal-Entanglements-2021-2025](https://github.com/Keynes263/Cape-Fur-Seal-Entanglements-2021-2025) |
+| Kayleigh Hill | [agrivoltaics_in_ri](https://github.com/khillrdn/agrivoltaics_in_ri) |
 | Anitha Kirezi | [Yale_eds_Capstone](https://github.com/Kirezi-7a/Yale_eds_Capstone) |
 | Kelly Sanks | [capstone-extreme-events](https://github.com/kmsanks/capstone-extreme-events) |
 | Felicien Irafasha | [Kigali-urbanization-solid-waste-capstone](https://github.com/mbonyirafasha-rgb/Kigali-urbanization-solid-waste-capstone) |
@@ -70,15 +70,15 @@ Below are links to their public capstone repositories, showcasing work that span
 | Michele Perry | [coastal-light-pollution-analysis](https://github.com/Michele-75/coastal-light-pollution-analysis) |
 | Mira Dewan | [eds-capstone](https://github.com/mira-dewan/eds-capstone) |
 | Placide Nkusi | [Impact_of_Landslides_and_Floods_in_Rwanda](https://github.com/nkusip/Impact_of_Landslides_and_Floods_in_Rwanda) |
-| ojodomo | [Wind-Energy-Development-in-Nigeria](https://github.com/ojodomo/Wind-Energy-Development-in-Nigeria) |
-| panpipiens | [amphibian-vulnerability-analysis](https://github.com/panpipiens/amphibian-vulnerability-analysis) |
+| Ojodomo Odiniya | [Wind-Energy-Development-in-Nigeria](https://github.com/ojodomo/Wind-Energy-Development-in-Nigeria) |
+| Amie Marie Whitney | [amphibian-vulnerability-analysis](https://github.com/panpipiens/amphibian-vulnerability-analysis) |
 | Rasheena Dow | [Barbados-Public-EV-Charger-Analysis](https://github.com/rasheenadow/Barbados-Public-EV-Charger-Analysis) |
 | Amy Schuler | [cary-enviro-monitoring](https://github.com/schulera/cary-enviro-monitoring) |
 | Seth Gerhart | [yale_capstone_public](https://github.com/sethmgerhart/yale_capstone_public) |
 | Stacy Fuende | [CRUM_Nairobi](https://github.com/stacyfuende/CRUM_Nairobi) |
 | Stuti Mishra | [urban-heat-india-capstone](https://github.com/stutimishra11/urban-heat-india-capstone) |
-| syattr16 | [EDS-capstone](https://github.com/syattr16/EDS-capstone) |
-| Toxikell | [Deciduous_Beginnings](https://github.com/Toxikell/Deciduous_Beginnings) |
+| Triska Wardana | [EDS-capstone](https://github.com/syattr16/EDS-capstone) |
+| Kelly Hogan | [Deciduous_Beginnings](https://github.com/Toxikell/Deciduous_Beginnings) |
 | Viviane Baji | [EDScapstone](https://github.com/viviane-acct/EDScapstone) |
 
 ---
