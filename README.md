@@ -113,8 +113,6 @@ Below are links to their public capstone repositories, showcasing work that span
 # 🌾 Food, Agriculture, and Land Use
 - **Gengyi Chen** – Impact of changing rainfall and temperature on tea yield and quality in Yunnan, China.  
   [Repo](https://github.com/chenrgengyi/capstone)  
-- **Kayleigh Hill** – Agrivoltaics potential in Rhode Island (also fits energy).  
-- **Triska Wardana** – Water level dynamics in rice paddies.  
 
 # 🏛️ Socio-Environmental and Policy Impacts
 - **Anna Brause** – Business impacts of corporate decarbonization in the U.S.  
