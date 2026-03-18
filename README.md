@@ -159,25 +159,16 @@ Below are links to their public capstone repositories, showcasing work that span
 
 ## Program Manager
 - **Jo Riddle** — MS Environmental Policy and Planning from Tufts University, BA Communications from Worcester State University
----
-
-## Contact
-
-📧 [info.envdatasci@yale.edu](mailto:info.envdatasci@yale.edu)
-
-🌐 [environment.yale.edu/certificates/data](https://environment.yale.edu/certificates/data)
-
+  
 ---
 
 <p align="center">
   <strong>Yale School of the Environment</strong><br>
   195 Prospect Street, New Haven, CT 06511<br><br>
-  <a href="https://www.linkedin.com/school/5527901/">LinkedIn</a> •
-  <a href="https://instagram.com/EnvironmentYale">Instagram</a> •
-  <a href="https://www.facebook.com/YaleEnvironment">Facebook</a> •
-  <a href="https://www.youtube.com/channel/UCMLSDzZ9VCUUFUOT3lD815A">YouTube</a>
+  <a href="https://www.linkedin.com/company/yse-eds/">LinkedIn</a> •
+  <a href="https://environment.yale.edu/certificates/data">Website</a> •
+  <a href="mailto:info.envdatasci@yale.edu">Email</a>
 </p>
-
 <p align="center">
   <em>Copyright © 2026 Yale University. All rights reserved.</em>
 </p>
