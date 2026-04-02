@@ -127,7 +127,7 @@ Below are links to their public capstone repositories, showcasing work that span
   [Repo](https://github.com/GreenVaultJoe/capstone_project)  
 - **Anitha Ikirezi** – Impact of nature-based carbon credit projects on indigenous communities.  
   [Repo](https://github.com/Kirezi-7a/Yale_eds_Capstone/tree/main)    
-- **Viviane Baji** – National park tourism and related impacts in gateway communities.  
+- **Viviane Baji** – Relationship between population growth and residential per capita water use in 126 cities  
   [Repo](https://github.com/viviane-acct/EDScapstone/tree/main)  
 
 ---
