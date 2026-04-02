@@ -114,7 +114,7 @@ Below are links to their public capstone repositories, showcasing work that span
 - **Triska Syattwa Wisnu Wardana** – Water level dynamics and AWD compliance in rice paddies.  
   [Repo](https://github.com/syattr16/EDS-capstone)  
 - **Mohamed Bashir Said** – Rainfall trends and shifts in pastoral livestock density across Somalia.  
-  [Repo](ttps://github.com/mbsaid/eds_capstone_project)  
+  [Repo](https://github.com/mbsaid/eds_capstone_project)  
 
 # 🌾 Food, Agriculture, and Land Use
 - **Gengyi Chen** – Impact of changing rainfall and temperature on tea yield and quality in Yunnan, China.  
