@@ -35,7 +35,7 @@ Yale's Environmental Data Science Certificate Program equips learners with the t
 These selected projects highlight the depth and range of work produced in the Environmental Data Science Certificate Program. Each capstone applies data science, geospatial analysis, and domain expertise to real-world environmental challenges.
 
 ### Climate Variability & Livestock Dynamics in Somalia
-**Mohamed Said**  
+**Mohamed Said**, Three Cairns recipient  
 An analysis of climate variability (1981–2024) and livestock population dynamics, revealing strong rainfall variability and species-specific resilience patterns to inform pastoral adaptation strategies.  
 🔗 https://github.com/mbsaid/eds_capstone_project
 
@@ -49,7 +49,7 @@ A geospatial analysis identifying 1,155 bird species across African Parks, highl
 ---
 
 ### CRUM FloodMapper: Urban Flood Risk in Nairobi
-**Stacy Mwangi**  
+**Stacy Mwangi**, Three Cairns recipient  
 A remote sensing–driven tool using 10 years of satellite data to map flood recurrence in Nairobi, supporting climate-resilient urban mobility and infrastructure planning.  
 🔗 https://github.com/stacyfuende/CRUM-FloodMapper
 
