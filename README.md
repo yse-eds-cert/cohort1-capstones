@@ -30,7 +30,7 @@ Yale's Environmental Data Science Certificate Program equips learners with the t
 - Data visualization and communication
 
 ---
-## 🌟 Featured Capstone Projects (2024–2025 Cohort)
+## 🌟 Featured Capstone Projects (2024–2025 Inaugural Cohort)
 
 These selected projects highlight the depth and range of work produced in the Environmental Data Science Certificate Program. Each capstone applies data science, geospatial analysis, and domain expertise to real-world environmental challenges.
 
