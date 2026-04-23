@@ -71,114 +71,157 @@ The inaugural cohort produced 40+ independent capstone projects spanning climate
 - [Climate & Environmental Monitoring](#-climate-change-air-quality-and-environmental-monitoring)  
 - [Energy & Sustainability](#-energy-renewable-resources-and-sustainability)  
 - [Urban Systems & Infrastructure](#-urban-systems-heat-and-infrastructure)  
-- [Water & Land Management](#-water-flooding-and-land-management)  
+- [Water, Health & Land Management](#-water-health-and-land-management)  
 - [Food & Agriculture](#-food-agriculture-and-land-use)  
-- [Policy & Socio-Environmental Systems](#-socio-environmental-and-policy-impacts)  
+- [Policy, Equity & Socio-Environmental Systems](#-policy-equity-and-socio-environmental-systems)  
 
 ---
 
 ### 🌿 Biodiversity, Wildlife, and Conservation
-- **Ceciliah Mumbi** — Comparison of remote sensing technologies for above-ground biomass (AGB) estimation using ground-truth data.  
+- **Ceciliah Mumbi** — Canopy height metrics using mobile LiDAR for restoration monitoring.  
   🔗 https://github.com/Ceciliah-Mumbi/Capstone-AGB-Remote-Sensing.git  
+
 - **Amie Whitney** — Trait-based predictors of amphibian conservation risk.  
   🔗 https://github.com/panpipiens/amphibian-vulnerability-analysis  
-- **Daisy Chu** — Biodiversity and climate resilience impacts of species re-introduction of wolves in Yellowstone National Park.  
-  🔗 https://github.com/daisychu12/blue-paradox-analysisLinks  
-- **Gabriela Peña-Bello** — Climate change and conservation law gaps affecting bat habitats in Colombia.  
+
+- **Gengyi Chen** — Red fox spatial ecology in agricultural landscapes.  
+  🔗 https://github.com/chenrgengyi/capstone  
+
+- **Gabriela Peña-Bello** — Climate change impacts on oilbird habitat suitability in Colombia.  
   🔗 https://github.com/gabpenab/eds_capstone_project_GPB  
-- **Milton Kimbini** — Cape fur seal entanglement along the Namibian coastline.  
-  🔗 https://github.com/Keynes263/Cape-Fur-Seal-Entanglements-2021-2025.git  
-- **Juno Pilson** — Human activity impacts on Neuse River Waterdog populations.  
+
+- **Milton Kimbini** — Cape fur seal entanglement patterns (2021–2025).  
+  🔗 https://github.com/Keynes263/cape-fur-seal-entanglement-analysis  
+
+- **Juno Pilson** — Migratory bird habitat use across the African Parks network.  
   🔗 https://github.com/j-pilson/eds_capstone  
-- **Michele Perry** — Effects of artificial light at night (ALAN) on coastal ecosystems and human populations.  
-  🔗 https://github.com/Michele-75/coastal-light-pollution-analysis  
+
+- **Michele Perry** — Bat observations in human-modified landscapes in California.  
+  🔗 https://github.com/Michele-75/california-bat-urbanization  
+
+- **Billy Lengima** — Spatial distribution and causes of elephant mortality.  
+  🔗 https://github.com/BillyPaul123/Elephant_Mortality_Rate  
 
 ---
 
 ### 🌡️ Climate Change, Air Quality, and Environmental Monitoring
-- **Amy Schuler** — Meteorological trends and ecological monitoring at Cary Institute.  
+- **Amy Schuler** — Temperature trends at the Cary Institute.  
   🔗 https://github.com/schulera/cary-enviro-monitoring  
-- **Caitlin Bergstrom** — Public attitudes and understanding of climate change.  
-  🔗 https://github.com/cbergstrom28/yale-capstone-project  
-- **Elizabeth Pflaum** — Renewable energy growth and carbon emissions in the U.S.  
+
+- **Caitlin Bergstrom** — Public climate attitudes after major U.S. disasters.  
+  🔗 https://github.com/cbergstrom28/climate-attitude-capstone-project/tree/main  
+
+- **Elizabeth Pflaum** — Renewable energy generation and carbon emissions in the U.S.  
   🔗 https://github.com/edpflaum/pflaum_capstone  
-- **Eric Shargo** — Climate change impacts on coastal resilience and community risk.  
+
+- **Eric Shrago** — Climate resilience and CPACE eligibility in Stamford, CT.  
   🔗 https://github.com/ENShrago/Eric-Capstone  
-- **Ilana Schwartz** — Climate change and global food security.  
+
+- **Ilana Schwartz** — Heat variability and SNAP participation in NYC.  
   🔗 https://github.com/ilanars/irs_eds_capstone  
-- **Kelly Sanks** — Comparative analysis of climate periods in the U.S.  
+
+- **Kelly Sanks** — Extreme weather trends in the United States.  
   🔗 https://github.com/kmsanks/capstone-extreme-events  
-- **Md. Humayain Kabir** — Heatwave evolution, vulnerability, and impacts across Europe.  
+
+- **Md. Humayain Kabir** — Heatwaves and mortality across Europe.  
   🔗 https://github.com/mhkabir-cc/Capstone_project_EDS  
-- **Seth Gerhart** — Air quality monitor accuracy and real-world conditions.  
+
+- **Seth Gerhart** — Air quality monitor representativeness in the U.S.  
   🔗 https://github.com/sethmgerhart/yale_capstone_public  
+
+- **Israel Zemedkun Gebre** — Land degradation monitoring in Ethiopia’s Gidabo Basin.  
+  🔗 https://github.com/Israelzemedkun/gidabo-basin-cldi-analysis  
 
 ---
 
 ### ⚡ Energy, Renewable Resources, and Sustainability
-- **Hilary Griggs** — Hydropower potential at non-powered dams in the U.S.  
-  🔗 https://github.com/hilarybg/hydropower_project  
-- **Jeremy Kwok Choon** — Biomass energy production on Tribal lands in the Pacific Northwest.  
-  🔗 https://github.com/JerbearKCodes/Yale_Capstone_Biomass.git  
-- **Kayleigh Hill** — Agrivoltaics potential across Rhode Island municipalities.  
-  🔗 https://github.com/khillrdn/agrivoltaics_in_ri/tree/main  
-- **Ojodomo Felix Odiniya** — Wind energy site suitability analysis in Nigeria.  
-  🔗 https://github.com/ojodomo/Wind-Energy-Development-in-Nigeria  
-- **Rajesh Sharma** — GHG emissions in Nepal’s cement industry.  
-  🔗 https://cocalc.com/projects/6aedba43-5531-4c74-98ed-c09b18a2ac6f/files/Cap_Stone/  
-- **Julia Mei Hanzl** — U.S. clean energy policy and household incentives.  
-  🔗 https://github.com/juliahanzl/New_York_sample  
-- **Rasheena Dow** — Corporate sustainability impact frameworks in the Caribbean.  
+- **Hilary Griggs** — Household energy insecurity in the U.S.  
+  🔗 https://github.com/hilarybg/energy-insecurity  
+
+- **Jeremy Kwok Choon** — Forest biomass energy potential on Tribal lands.  
+  🔗 https://github.com/JerbearKCodes/Tribal_Biomass_PNW  
+
+- **Kayleigh Hill** — Agrivoltaics potential in Rhode Island.  
+  🔗 https://github.com/khillrdn/agrivoltaics_in_ri  
+
+- **Ojodomo Felix Odiniya** — Wind energy site suitability in Nigeria.  
+  🔗 https://github.com/ojodomo/YSE-EDS-Capstone  
+
+- **Rajesh Sharma** — Eco-efficiency in Nepal’s cement industry.  
+  🔗 https://github.com/rajeshsharmaKUSOM/Rajesh  
+
+- **Julia Mei Hanzl** — Federal energy policy and state-level adoption.  
+  🔗 https://github.com/juliahanzl/US_Renewable_Energy_EDS_Capstone  
+
+- **Rasheena Dow** — EV charging equity in Barbados.  
   🔗 https://github.com/rasheenadow/Barbados-Public-EV-Charger-Analysis  
-- **Jared Friedman** — Cement decarbonization and material substitution.  
+
+- **Jared Friedman** — Cement decarbonization and SCM mapping.  
   🔗 https://github.com/jbf1212/scm-mapping  
 
 ---
 
 ### 🏙️ Urban Systems, Heat, and Infrastructure
-- **Israel Zemedkun Gebre** — Urban heat island effects and vehicle heat dissipation.  
-  🔗 https://github.com/Israelzemedkun/gidabo-basin-cldi-analysis  
-- **Mira Dewan** — Data center concentration and urban microclimate impacts.  
-  🔗 https://github.com/mira-dewan/eds-capstone/tree/main  
-- **Stuti Mishra** — Urban heat intensity in Indian cities.  
+- **Mira Dewan** — Data center suitability: Singapore vs Malaysia.  
+  🔗 https://github.com/mira-dewan/eds-capstone  
+
+- **Stuti Mishra** — Urban heat risk across Indian cities.  
   🔗 https://github.com/stutimishra11/urban-heat-india-capstone  
-- **Stacy Mwangi** — Climate-resilient urban mobility and flood risk mapping.  
-  🔗 https://github.com/stacyfuende/CRUM_Nairobi  
-- **Marjorie Huang** — Data center impacts on the Potomac watershed.  
-  🔗 https://github.com/m-huang25/data-center-impacts.git  
-- **Kelly Hogan** — Green coverage and heat-related hospital admissions.  
-  🔗 https://github.com/Toxikell/Deciduous_Beginnings/tree/main  
+
+- **Stacy Mwangi** — Flood risk and mobility in Nairobi (CRUM FloodMapper).  
+  🔗 https://github.com/stacyfuende/CRUM-FloodMapper  
+
+- **Marjorie Huang** — Data center emissions in Virginia.  
+  🔗 https://github.com/m-huang25/environmental-data-centers  
+
+- **Ty Frago** — Infrastructure verification using satellite spectral change (GIST).  
+  🔗 https://github.com/tdfrago/yale-environmental-data-science-capstone  
 
 ---
 
-### 💧 Water, Flooding, and Land Management
-- **Felicien Irafasha** — Urbanization and solid waste in Kigali.  
-  🔗 https://github.com/mbonyirafasha-rgb/Kigali-urbanization-solid-waste-capstone  
-- **Placide Nkusi** — Landslides and flooding in Rwanda.  
-  🔗 https://github.com/nkusip/Impact_of_Landslides_and_Floods_in_Rwanda.git  
-- **Triska Syattwa Wisnu Wardana** — Water dynamics in rice paddies.  
-  🔗 https://github.com/syattr16/EDS-capstone  
-- **Mohamed Bashir Said** — Rainfall trends and livestock density in Somalia.  
+### 💧 Water, Health & Land Management
+- **Felicien Irafasha** — Diarrheal disease risk factors in Kigali.  
+  🔗 https://github.com/mbonyirafasha-rgb/messy-repo-cleanup/tree/mbonyirafasha-rgb  
+
+- **Placide Nkusi** — Floods and landslides in Rwanda (2021–2025).  
+  🔗 https://github.com/nkusip/Final-Capstone-Project_Impact_of_Landslides_and_Floods_on_Rwanda.git  
+
+- **Triska Wardana** — Monitoring alternate wetting and drying in rice systems.  
+  🔗 https://github.com/syattr16/AWD_EDS_Capstone_2025_TriskaWardana  
+
+- **Mohamed Said** — Rainfall trends and livestock dynamics in Somalia.  
   🔗 https://github.com/mbsaid/eds_capstone_project  
 
----
+- **Joe Boccuzzi** — EMF-based algal bloom suppression at Chrysler Pond.  
+  🔗 https://github.com/GreenVaultJoe/capstone_Chrysler_Pond  
 
-### 🌾 Food, Agriculture, and Land Use
-- **Gengyi Chen** — Climate impacts on tea yield and quality in Yunnan, China.  
-  🔗 https://github.com/chenrgengyi/capstone  
-
----
-
-### 🏛️ Socio-Environmental and Policy Impacts
-- **Anna Brause** — Corporate decarbonization and business impacts in the U.S.  
-  🔗 https://github.com/Avbrause/Capstone-Project.git  
-- **Joseph Boccuzzi** — Connecticut Green Bank investment impacts.  
-  🔗 https://github.com/GreenVaultJoe/capstone_project  
-- **Anitha Ikirezi** — Carbon credit projects and indigenous communities.  
-  🔗 https://github.com/Kirezi-7a/Yale_eds_Capstone/tree/main  
-- **Viviane Baji** — Population growth and urban water use across 126 cities.  
+- **Viviane Baji** — Population growth and water use in 126 U.S. cities.  
   🔗 https://github.com/viviane-acct/EDScapstone/tree/main  
 
+---
+
+### 🌾 Food & Agriculture
+- **Daisy Chu** — Climate impacts on Portugal’s fishing industry.  
+  🔗 https://github.com/daisychu12/pt-fisheries-climate-change  
+
+- **Gordon Tu** — Wildfire impacts on school closures and absenteeism in California.  
+  🔗 https://github.com/tututwo/ycgs-capstone  
+
+---
+
+### 🏛️ Policy, Equity & Socio-Environmental Systems
+- **Anna Brause** — Climate risk and adaptation trends in U.S. cities.  
+  🔗 https://github.com/Avbrause/Capstone-Project.git  
+
+- **Anitha Ikirezi** — Carbon credit projects and indigenous community impacts.  
+  🔗 https://github.com/Kirezi-7a/Yale_eds_Capstone  
+
+- **Kelly Hogan** — Environmental framing in U.S. pronatalist policy.  
+  🔗 https://github.com/Toxikell/Deciduous_Beginnings  
+
+- **Samhitha Devaraj** — Caste, water, and sanitation inequality in India.  
+  🔗 https://github.com/samhithadevaraj-prog/caste-water-sanitation-capstone
+  
 ---
 
 ## Program Structure
